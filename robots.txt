@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://hariprasadko.github.io/quicktools/sitemap.xml
